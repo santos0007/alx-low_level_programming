@@ -1,0 +1,3 @@
+f (n != 57)
+      |   ^~
+cc1: all warningi

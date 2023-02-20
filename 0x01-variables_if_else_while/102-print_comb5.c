@@ -16,7 +16,6 @@ int main(void)
 
 	while (c <= 98)
 	{
-	
 		f_d = (c / 10 + '0');
 		l_d = (c % 10 + '0');
 		c2 = 0;
@@ -43,5 +42,6 @@ int main(void)
 		}
 		c++;
 	}
+	putchar('\n');
 	return (0);
 }
